@@ -1,0 +1,1 @@
+vcf2kinship --ped input.ped --xHemi --out output
